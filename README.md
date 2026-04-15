@@ -1,4 +1,5 @@
-# my_portfolio
+Nuved Ahmad - Personal Portfolio
+
 A modern, interactive, and fully responsive personal portfolio website showcasing my skills, projects, coding profiles, and achievements. 
 
 🌐 Live Demo
