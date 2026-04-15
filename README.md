@@ -3,7 +3,7 @@
 A modern, interactive, and fully responsive personal portfolio website showcasing my skills, projects, coding profiles, and achievements.
 
 ### 🌐 Live Demo
-You can view the live deployed site here: **[https://nuvedahmad0007.github.io/my_portfolio/](https://nuvedahmad0007.github.io/my_portfolio/))**
+You can view the live deployed site here: **[https://nuvedahmad0007.github.io/my_portfolio/](https://nuvedahmad0007.github.io/my_portfolio/)**
 
 ### ✨ Highlights & Features
 - Fully responsive UI
